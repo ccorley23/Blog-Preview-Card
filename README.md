@@ -52,7 +52,9 @@ I learned more about which tags to use for certain situations. I realized I was 
 I learned what the _time_ tag was and when to use it.
 
 ```html
-<time class="blog-card__date text-preset-3"> Published 21 Dec 2023 </time>
+<time class="blog-card__date text-preset-3" datetime="2023-12-21">
+  Published 21 Dec 2023
+</time>
 ```
 
 I also learned to use other tags when _p_ is not appropriate, such as _span_.
